@@ -15,7 +15,7 @@ INFO
 
 CHANGELOG
 
-echo -e  "\e[90mVersão 1.0 - (renanhpessoa@gmail.com)\e[0;00m\n\n";
+echo -e  "\e[90mVersão 1.0 - (renanhpessoa@gmail.com)\e[0;00m\n";
 
 #. cPanel .#
 cpanelv=$(/usr/local/cpanel/cpanel -V);
