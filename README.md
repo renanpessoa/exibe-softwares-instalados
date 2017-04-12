@@ -10,6 +10,12 @@ Também pode ser utilizado para documentar os softwares presentes no servidor an
 
 ### Como utilizar
 
+Execute o comando abaixo no servidor
+```bash
+bash <(curl -ks https://raw.githubusercontent.com/renanpessoa/exibe-softwares-instalados/master/software.sh)
+```
+
+
 O script tem a saída já formatada em <b>markdown</b> basta copiar o que está na tela e colar em notas no ticket.
 
 ```
